@@ -1,7 +1,7 @@
 ﻿{
-    "latestVersion":  "1.0.1",
-    "downloadUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.1-sfx.exe",
-    "sha256":  "22df42840363b235aa5e8731a01b358dcefb701c972e9196ed81cb59bb9e8f00",
+    "latestVersion":  "1.0.2",
+    "downloadUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.2-sfx.exe",
+    "sha256":  "f83f3dca5ca49b55450d55f265cc33a7c0de5ed478a2eb0d2234a9e7c073978c",
     "changelogUrl":  "https://t.me/XiaomiPCManager/603",
     "required":  false
 }
