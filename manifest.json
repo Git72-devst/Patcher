@@ -1,8 +1,8 @@
 ﻿{
     "schema":  1,
-    "updatedAt":  "2026-06-30T20:08:44Z",
+    "updatedAt":  "2026-07-01T20:43:26Z",
     "minSupportedManagerVersion":  "4.2.2.1140",
-    "latestPatcherVersion":  "1.0.1",
+    "latestPatcherVersion":  "1.0.0",
     "archivesBaseUrl":  "https://github.com/Git72-devst/Patcher/releases/download/archives",
     "archivePasswordRequired":  true,
     "versions":  {
