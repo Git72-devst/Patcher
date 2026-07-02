@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "updatedAt":  "2026-07-02T18:16:24Z",
+    "updatedAt":  "2026-07-02T18:23:03Z",
     "latestVersion":  "5.8.0.74",
     "minSupportedManagerVersion":  "4.2.2.1140",
     "archivesBaseUrl":  "https://github.com/Git72-devst/Patcher/releases/download/archives",
@@ -385,9 +385,9 @@
                      }
                  ],
     "selfUpdate":  {
-                       "version":  "1.0.4",
-                       "url":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.4-sfx.exe",
-                       "sha256":  "e3e39eaca651ab532e4ed10bb1a1c814e7ed8a3e4412fbbe8879623498cf1311",
+                       "version":  "1.0.5",
+                       "url":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.5-sfx.exe",
+                       "sha256":  "d1bc096bc45ca8a7c38a7e24251d9bfb00f69b7651ffb5d74d38566953825104",
                        "type":  "sfx",
                        "changelogUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
                    },
