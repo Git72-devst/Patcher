@@ -1,7 +1,7 @@
 ﻿{
-    "latestVersion":  "1.0.3",
-    "downloadUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.3-sfx.exe",
-    "sha256":  "269c8f40ac1936a9851642c35af5c673fd6ddd8ddf66c09adc98be32a7795b97",
+    "latestVersion":  "1.0.4",
+    "downloadUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.4-sfx.exe",
+    "sha256":  "e3e39eaca651ab532e4ed10bb1a1c814e7ed8a3e4412fbbe8879623498cf1311",
     "changelogUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
     "required":  false
 }
