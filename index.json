@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "updatedAt":  "2026-07-02T18:23:03Z",
+    "updatedAt":  "2026-07-03T05:45:04Z",
     "latestVersion":  "5.8.0.74",
     "minSupportedManagerVersion":  "4.2.2.1140",
     "archivesBaseUrl":  "https://github.com/Git72-devst/Patcher/releases/download/archives",
@@ -359,8 +359,8 @@
                      {
                          "version":  "5.8.0.74",
                          "archive":  "5.8.0.74.zip",
-                         "sha256":  "bc27d93854c5630b60317453daa3157ae686dd5087133c72042e68ebe7c7fc34",
-                         "size":  170170756,
+                         "sha256":  "81f18e39a0371be7dd1be2863c2c8b864d1c1b641bef63d5350cd5587c1444b2",
+                         "size":  168941145,
                          "modules":  {
                                          "Rus":  {
                                                      "enabled":  true,
@@ -385,9 +385,9 @@
                      }
                  ],
     "selfUpdate":  {
-                       "version":  "1.0.5",
-                       "url":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.5-sfx.exe",
-                       "sha256":  "d1bc096bc45ca8a7c38a7e24251d9bfb00f69b7651ffb5d74d38566953825104",
+                       "version":  "1.0.6",
+                       "url":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.6-sfx.exe",
+                       "sha256":  "dc962614ec5b0bfdb9eddbbf7a8ed336cc347240d10a4672ed41378e23dfb11e",
                        "type":  "sfx",
                        "changelogUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
                    },
