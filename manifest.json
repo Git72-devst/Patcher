@@ -387,7 +387,7 @@
   "selfUpdate": {
     "version": "1.0.7",
     "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.7-sfx.exe",
-    "sha256": "7e7c4a14d22015916f35831fc4414c5d4038a049ca1ebb7b65596eb886614678",
+    "sha256": "f4e249dd6dcf6d478babff78c445d1494b0ca8a83c90f6068757213a3fdf57b9",
     "type": "sfx",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
