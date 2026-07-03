@@ -1,395 +1,394 @@
-﻿{
-    "schema":  1,
-    "updatedAt":  "2026-07-03T05:45:04Z",
-    "latestVersion":  "5.8.0.74",
-    "minSupportedManagerVersion":  "4.2.2.1140",
-    "archivesBaseUrl":  "https://github.com/Git72-devst/Patcher/releases/download/archives",
-    "versions":  [
-                     {
-                         "version":  "4.2.2.1140",
-                         "archive":  "4.2.2.1140.zip",
-                         "sha256":  "18de98b6103dc1c8f6116c997983b5c441de15c50fcd8cb685424592faec8399",
-                         "size":  86022285,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.1.0.174",
-                         "archive":  "5.1.0.174.zip",
-                         "sha256":  "4ff04b92ef3110e74d5ab31e83a66d6dfe059a05d505c4805d160c37973023fa",
-                         "size":  215917565,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.3.0.328",
-                         "archive":  "5.3.0.328.zip",
-                         "sha256":  "66b7e25e844a76d16bb93907f872c4a977ea2c7177da3e80971c792aafaf348c",
-                         "size":  215983319,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.3.1.380",
-                         "archive":  "5.3.1.380.zip",
-                         "sha256":  "04733a632f92645935d0ce523caf220fc92da1f8dee381c942cae32b68fada85",
-                         "size":  215983319,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.3.2.401",
-                         "archive":  "5.3.2.401.zip",
-                         "sha256":  "5707038023cc4274d6b80dcd2f2a946a53183d9cc462ffd2d484d33b399781cb",
-                         "size":  220907772,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.3.2.407",
-                         "archive":  "5.3.2.407.zip",
-                         "sha256":  "10750769d71edddcf65f16bc32d13155e504b0c3ae7af48abbab9af4a7ed995e",
-                         "size":  105804404,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.3.2.413",
-                         "archive":  "5.3.2.413.zip",
-                         "sha256":  "86fc8b323dbd25a95a4e93e17deb533d01367565efa8faafcdb773f8e78d2e2a",
-                         "size":  108109690,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.5.0.13",
-                         "archive":  "5.5.0.13.zip",
-                         "sha256":  "6ad82609c8bb56ad4d987e9fcb42b5af4a017c93557dfde5001f67824f1bf939",
-                         "size":  111240862,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.5.0.18",
-                         "archive":  "5.5.0.18.zip",
-                         "sha256":  "47955357f537a78685fe6876999152641d5b2e96cadd9394e4535b0763b4b975",
-                         "size":  108110649,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.5.0.32",
-                         "archive":  "5.5.0.32.zip",
-                         "sha256":  "603b6a7d6cd4b523c4f6ba0da63e27a7389bd41e9530b2affa0f58f381b89f85",
-                         "size":  108111147,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.5.0.54",
-                         "archive":  "5.5.0.54.zip",
-                         "sha256":  "d85e04c142759be6aa8f59e89a20f60870a618742236fd47fdda2b2bb4f9f5f5",
-                         "size":  108112312,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.5.0.57",
-                         "archive":  "5.5.0.57.zip",
-                         "sha256":  "f50b0cfcf539151c389e3c05884a1818bdf46dad5fd3d932f445dc9abcbd4e4e",
-                         "size":  108112305,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.5.2.10",
-                         "archive":  "5.5.2.10.zip",
-                         "sha256":  "c7e590105af8ecb8b8f5d27b04066fb04c372a198a0b7e434a4835a5a126fdc1",
-                         "size":  108112305,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     },
-                     {
-                         "version":  "5.8.0.74",
-                         "archive":  "5.8.0.74.zip",
-                         "sha256":  "81f18e39a0371be7dd1be2863c2c8b864d1c1b641bef63d5350cd5587c1444b2",
-                         "size":  168941145,
-                         "modules":  {
-                                         "Rus":  {
-                                                     "enabled":  true,
-                                                     "title":  "Перевод"
-                                                 },
-                                         "Themes":  {
-                                                        "enabled":  false,
-                                                        "title":  "Смена темы",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch1":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch1",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    },
-                                         "Patch2":  {
-                                                        "enabled":  false,
-                                                        "title":  "Patch2",
-                                                        "reason":  "Недоступно для этой версии"
-                                                    }
-                                     }
-                     }
-                 ],
-    "selfUpdate":  {
-                       "version":  "1.0.6",
-                       "url":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.6-sfx.exe",
-                       "sha256":  "dc962614ec5b0bfdb9eddbbf7a8ed336cc347240d10a4672ed41378e23dfb11e",
-                       "type":  "sfx",
-                       "changelogUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
-                   },
-    "changelogUrl":  "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
+{
+  "schema": 1,
+  "updatedAt": "2026-07-03T20:14:00Z",
+  "latestVersion": "5.8.0.74",
+  "minSupportedManagerVersion": "4.2.2.1140",
+  "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
+  "versions": [
+    {
+      "version": "4.2.2.1140",
+      "archive": "4.2.2.1140.zip",
+      "sha256": "18de98b6103dc1c8f6116c997983b5c441de15c50fcd8cb685424592faec8399",
+      "size": 86022285,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.1.0.174",
+      "archive": "5.1.0.174.zip",
+      "sha256": "4ff04b92ef3110e74d5ab31e83a66d6dfe059a05d505c4805d160c37973023fa",
+      "size": 215917565,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.3.0.328",
+      "archive": "5.3.0.328.zip",
+      "sha256": "66b7e25e844a76d16bb93907f872c4a977ea2c7177da3e80971c792aafaf348c",
+      "size": 215983319,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.3.1.380",
+      "archive": "5.3.1.380.zip",
+      "sha256": "04733a632f92645935d0ce523caf220fc92da1f8dee381c942cae32b68fada85",
+      "size": 215983319,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.3.2.401",
+      "archive": "5.3.2.401.zip",
+      "sha256": "5707038023cc4274d6b80dcd2f2a946a53183d9cc462ffd2d484d33b399781cb",
+      "size": 220907772,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.3.2.407",
+      "archive": "5.3.2.407.zip",
+      "sha256": "10750769d71edddcf65f16bc32d13155e504b0c3ae7af48abbab9af4a7ed995e",
+      "size": 105804404,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.3.2.413",
+      "archive": "5.3.2.413.zip",
+      "sha256": "86fc8b323dbd25a95a4e93e17deb533d01367565efa8faafcdb773f8e78d2e2a",
+      "size": 108109690,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.5.0.13",
+      "archive": "5.5.0.13.zip",
+      "sha256": "6ad82609c8bb56ad4d987e9fcb42b5af4a017c93557dfde5001f67824f1bf939",
+      "size": 111240862,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.5.0.18",
+      "archive": "5.5.0.18.zip",
+      "sha256": "47955357f537a78685fe6876999152641d5b2e96cadd9394e4535b0763b4b975",
+      "size": 108110649,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.5.0.32",
+      "archive": "5.5.0.32.zip",
+      "sha256": "603b6a7d6cd4b523c4f6ba0da63e27a7389bd41e9530b2affa0f58f381b89f85",
+      "size": 108111147,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.5.0.54",
+      "archive": "5.5.0.54.zip",
+      "sha256": "d85e04c142759be6aa8f59e89a20f60870a618742236fd47fdda2b2bb4f9f5f5",
+      "size": 108112312,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.5.0.57",
+      "archive": "5.5.0.57.zip",
+      "sha256": "f50b0cfcf539151c389e3c05884a1818bdf46dad5fd3d932f445dc9abcbd4e4e",
+      "size": 108112305,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.5.2.10",
+      "archive": "5.5.2.10.zip",
+      "sha256": "c7e590105af8ecb8b8f5d27b04066fb04c372a198a0b7e434a4835a5a126fdc1",
+      "size": 108112305,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": false,
+          "title": "Patch1",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    {
+      "version": "5.8.0.74",
+      "archive": "5.8.0.74.zip",
+      "sha256": "342dac9338f00701895e773d765753638326f74e65e67e976fceca6dad99355d",
+      "size": 169164419,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": true,
+          "title": "Патч камеры"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    }
+  ],
+  "selfUpdate": {
+    "version": "1.0.7",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.7-sfx.exe",
+    "sha256": "7e7c4a14d22015916f35831fc4414c5d4038a049ca1ebb7b65596eb886614678",
+    "type": "sfx",
+    "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
+  },
+  "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
 }
