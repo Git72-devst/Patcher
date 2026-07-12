@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T06:15:18Z",
+  "updatedAt": "2026-07-12T12:32:23Z",
   "minSupportedManagerVersion": "4.2.2.1140",
   "latestPatcherVersion": "1.0.9",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
@@ -360,8 +360,8 @@
     "5.8.0.74": {
       "supported": true,
       "archive": "5.8.0.74.zip",
-      "sha256": "ec6861875cd206f2d68d631e5eb6f13a7097c7dec63675062859d8613b9a2e1b",
-      "size": 169743340,
+      "sha256": "1e471967ac73990773b26072f4cc21ba4ef39ff1b5e81975c9d5b195342846ee",
+      "size": 169779686,
       "modules": {
         "Rus": {
           "enabled": true,
