@@ -1,5 +1,5 @@
 {
-  "maintenance": "no",
+  "maintenance": "yes",
   "description": "Обновление серверных файлов и компонентов PATCHER.",
-  "expectedEnd": ""
+  "expectedEnd": "10 минут"
 }
