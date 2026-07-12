@@ -361,7 +361,7 @@
       "supported": true,
       "archive": "5.8.0.74.zip",
       "sha256": "ea584fe1b12139ba05eb1200d4da7719d34ef3cc8fb06ebc4bba8afae822982f",
-      "size": 169780150,
+      "size": 170060768,
       "modules": {
         "Rus": {
           "enabled": true,
