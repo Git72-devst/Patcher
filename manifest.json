@@ -360,7 +360,7 @@
     "5.8.0.74": {
       "supported": true,
       "archive": "5.8.0.74.zip",
-      "sha256": "ca1291e6d55d879f9df9474abacb0032969546d55896db0629c43334e919cbff",
+      "sha256": "ea584fe1b12139ba05eb1200d4da7719d34ef3cc8fb06ebc4bba8afae822982f",
       "size": 169780150,
       "modules": {
         "Rus": {
@@ -385,9 +385,9 @@
     }
   },
   "selfUpdate": {
-    "version": "1.0.10",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.10-sfx.exe",
-    "sha256": "c5f4bcca61487a49c742a256a50787fdbccd5934622c6e2bbd720e8a1c40b455",
+    "version": "1.0.11",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.11-sfx.exe",
+    "sha256": "3c1129bc4e18749a6c52ce89fd2bd05b62778b30e27997fcf874d82c9387942c",
     "type": "sfx",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
