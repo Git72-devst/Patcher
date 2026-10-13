@@ -26,9 +26,14 @@ patcher/Patcher-1.0.17-sfx.exe;
 patcher/Patcher-1.0.17.7z;
 patcher/Patcher-1.0.17-sfx-config.txt;
 SHA256SUMS-1.0.17.txt;
+SHA256SUMS-translations-2026-10-13.txt;
 RELEASE-1.0.17.txt.
 
 Полный пакет содержит 37 файлов программы, DLL, плагинов и лицензий.
 Исходник LGPL SFX-модуля: patcher/7zsd_src_170_3900.7z.
-Архивы переводов и установщик XiaomiPCManager не менялись.
+Архивы переводов 5.8.0.74, 5.8.0.95, 5.8.1.121 и 5.8.1.130 обновлены
+из Patcher_F_archive: в каждой версии изменён Rus/dist/static/js/main.js.
+ZIP-файлы подготовлены в github-server/archives для ручной замены
+одноимённых файлов в GitHub Release с тегом archives.
+Установщик XiaomiPCManager и исполняемые файлы PATCHER не менялись.
 Коммит и пуш автоматически не выполняются.

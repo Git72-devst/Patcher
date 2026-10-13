@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T06:10:59Z",
+  "updatedAt": "2026-10-13T12:21:11Z",
   "minSupportedManagerVersion": "4.2.2.1140",
   "latestSupportedManagerVersion": "5.8.1.130",
   "latestPatcherVersion": "1.0.17",
@@ -361,8 +361,8 @@
     "5.8.0.74": {
       "supported": true,
       "archive": "5.8.0.74.zip",
-      "sha256": "7852d0477961d1c778429dd320af149d8cb3ce974782df1031978db93acae668",
-      "size": 516111837,
+      "sha256": "c4b1f972b725c62eac131662d1b85d26776736e335f8117803e6e88c742f70e1",
+      "size": 516111809,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -387,8 +387,8 @@
     "5.8.0.95": {
       "supported": true,
       "archive": "5.8.0.95.zip",
-      "sha256": "8f797b34575c81ef0b3c217503d219a230f4f2f2bb5c9d36a5dfbdb3efa86bee",
-      "size": 516347486,
+      "sha256": "fb9cfb15b48a2c10e7f0c70ade8e9f693e20cf4fe717992b6cb3c746c88e217f",
+      "size": 516347458,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -413,8 +413,8 @@
     "5.8.1.121": {
       "supported": true,
       "archive": "5.8.1.121.zip",
-      "sha256": "a805c96ae375cb8d7ff208d6abda88bf91c3facae83f6852742a867fa604e35d",
-      "size": 517591290,
+      "sha256": "5ee91d279cca50b4b5649fe9ac55d161972ef1891459d5f0a710e074c6580148",
+      "size": 517591262,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -439,8 +439,8 @@
     "5.8.1.130": {
       "supported": true,
       "archive": "5.8.1.130.zip",
-      "sha256": "2f707ca4428910020c12aec1ea4f44cfed963f5ec355b32ac1de307185106f08",
-      "size": 517657104,
+      "sha256": "53955966d8a01d4b083eda6597f8632b9644221c413b054748512c287935cfbe",
+      "size": 517657076,
       "modules": {
         "Rus": {
           "enabled": true,
