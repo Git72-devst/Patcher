@@ -1,8 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T16:21:23Z",
+  "updatedAt": "2026-10-13T04:21:52Z",
   "minSupportedManagerVersion": "4.2.2.1140",
-  "latestPatcherVersion": "1.0.12",
+  "latestSupportedManagerVersion": "5.8.1.130",
+  "latestPatcherVersion": "1.0.14",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
   "archivePasswordRequired": true,
   "versions": {
@@ -360,8 +361,86 @@
     "5.8.0.74": {
       "supported": true,
       "archive": "5.8.0.74.zip",
-      "sha256": "ea584fe1b12139ba05eb1200d4da7719d34ef3cc8fb06ebc4bba8afae822982f",
-      "size": 170060768,
+      "sha256": "7852d0477961d1c778429dd320af149d8cb3ce974782df1031978db93acae668",
+      "size": 516111837,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": true,
+          "title": "Патч камеры"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    "5.8.0.95": {
+      "supported": true,
+      "archive": "5.8.0.95.zip",
+      "sha256": "8f797b34575c81ef0b3c217503d219a230f4f2f2bb5c9d36a5dfbdb3efa86bee",
+      "size": 516347486,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": true,
+          "title": "Патч камеры"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    "5.8.1.121": {
+      "supported": true,
+      "archive": "5.8.1.121.zip",
+      "sha256": "a805c96ae375cb8d7ff208d6abda88bf91c3facae83f6852742a867fa604e35d",
+      "size": 517591290,
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "title": "Смена темы",
+          "reason": "Недоступно для этой версии"
+        },
+        "Patch1": {
+          "enabled": true,
+          "title": "Патч камеры"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    "5.8.1.130": {
+      "supported": true,
+      "archive": "5.8.1.130.zip",
+      "sha256": "2f707ca4428910020c12aec1ea4f44cfed963f5ec355b32ac1de307185106f08",
+      "size": 517657104,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -385,10 +464,16 @@
     }
   },
   "selfUpdate": {
-    "version": "1.0.12",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.12-sfx.exe",
-    "sha256": "0b5feec6acc53271820b9ee6d8ecd6c5951799b60fa9e455fee11fc61c6e0cf4",
+    "version": "1.0.14",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.14-sfx.exe",
+    "sha256": "97cfbbec646067a3080c91d99a7a8e8b1798a8e17fdd86ff1dca97f0c2b1c2b9",
+    "size": 23783154,
     "type": "sfx",
+    "arguments": [
+      "-y",
+      "-nr",
+      "-InstallPath={appDir}"
+    ],
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"

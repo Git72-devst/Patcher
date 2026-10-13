@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "latestVersion": "5.8.1.130",
+  "installers": [
+    {
+      "version": "5.8.1.130",
+      "file": "TS4L_XiaomiPCManager_feature_p52_5.8.1.130_b5a04836.exe",
+      "url": "https://github.com/Git72-devst/Patcher/releases/download/archives/TS4L_XiaomiPCManager_feature_p52_5.8.1.130_b5a04836.exe",
+      "sha256": "d812cf30805d172474eb33b2f97f37129593f9d50f09d4224f73d530a2cb40e9",
+      "size": 766644624,
+      "enabled": true
+    }
+  ]
+}
