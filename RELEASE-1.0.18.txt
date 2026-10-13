@@ -1,0 +1,34 @@
+PATCHER 1.0.18 — обновление переводов и закрытие Handoff, 13.10.2026
+
+Перед установкой перевода PATCHER закрывает MiSmartShareHandoff.exe
+только из выбранной папки XiaomiPCManager и подтверждает завершение.
+Процессы из других каталогов и версий не затрагиваются.
+Защита EXE/DLL от повторного запуска, резервирование и откат сохранены.
+
+Архивы 5.8.0.74, 5.8.0.95, 5.8.1.121 и 5.8.1.130 обновлены из
+Patcher_F_archive: добавлен Rus/MiSmartShareHandoff.exe, изменены
+resources.pri, PcControlCenter.pri и Resources.resw в Rus и обоих
+вариантах патча камеры. Установщик XiaomiPCManager не менялся.
+
+Автообновление использует обычный EXE, type="exe" и SHA256 этого EXE,
+без arguments. SFX предназначен для ручной полной установки.
+Не подменяйте raw EXE файлом SFX под тем же именем.
+
+Файлы для репозитория GitHub Desktop:
+index.json;
+manifest.json;
+changelog.json;
+patcher/latest.json;
+patcher/Patcher-1.0.18.exe;
+patcher/Patcher-1.0.18-sfx.exe;
+patcher/Patcher-1.0.18.7z;
+patcher/Patcher-1.0.18-sfx-config.txt;
+SHA256SUMS-1.0.18.txt;
+SHA256SUMS-translations-2026-10-13.txt;
+RELEASE-1.0.18.txt.
+
+Полный пакет содержит 37 файлов программы, DLL, плагинов и лицензий.
+Исходник LGPL SFX-модуля: patcher/7zsd_src_170_3900.7z.
+Четыре ZIP из github-server/archives нужно вручную заменить в GitHub
+Release с тегом archives до пуша метаданных, иначе SHA256 не совпадут.
+Коммит выполняется по запросу пользователя; пуш автоматически не делается.

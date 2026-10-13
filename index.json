@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T12:21:11Z",
+  "updatedAt": "2026-10-13T17:59:32Z",
   "latestVersion": "5.8.1.130",
   "minSupportedManagerVersion": "4.2.2.1140",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
@@ -359,8 +359,8 @@
     {
       "version": "5.8.0.74",
       "archive": "5.8.0.74.zip",
-      "sha256": "c4b1f972b725c62eac131662d1b85d26776736e335f8117803e6e88c742f70e1",
-      "size": 516111809,
+      "sha256": "7b869fa5cf1654f3b1351e5c29a191190f73d5244d596d3969edad230150cd1c",
+      "size": 516369691,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -385,8 +385,8 @@
     {
       "version": "5.8.0.95",
       "archive": "5.8.0.95.zip",
-      "sha256": "fb9cfb15b48a2c10e7f0c70ade8e9f693e20cf4fe717992b6cb3c746c88e217f",
-      "size": 516347458,
+      "sha256": "cda8c62222ba347f2bd6e91abce554c8121aa3019157b2fd90c006c84f122f30",
+      "size": 516605320,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -411,8 +411,8 @@
     {
       "version": "5.8.1.121",
       "archive": "5.8.1.121.zip",
-      "sha256": "5ee91d279cca50b4b5649fe9ac55d161972ef1891459d5f0a710e074c6580148",
-      "size": 517591262,
+      "sha256": "7f899a4c2228db647699fe12781b3bd8f8512d7ac68ba171ba03c40383f75d36",
+      "size": 517848975,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -437,8 +437,8 @@
     {
       "version": "5.8.1.130",
       "archive": "5.8.1.130.zip",
-      "sha256": "53955966d8a01d4b083eda6597f8632b9644221c413b054748512c287935cfbe",
-      "size": 517657076,
+      "sha256": "fd4df0b8ddec8d6ceb0d43b1c5c0271e6144321303180238ac962c8ac598ddd5",
+      "size": 517917759,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -462,10 +462,10 @@
     }
   ],
   "selfUpdate": {
-    "version": "1.0.17",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.17.exe",
-    "sha256": "1ed00fe05ddba14853df27aa74b86e2d4d18d8575247d66625dd1fb430b210fe",
-    "size": 5166592,
+    "version": "1.0.18",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.18.exe",
+    "sha256": "b2f3ff60bf713a912608080bea428e128d2dcbb24e34d5f2ba53af3c20455f78",
+    "size": 5167104,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
