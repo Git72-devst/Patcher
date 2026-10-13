@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.15",
-  "downloadUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.15.exe",
-  "sha256": "2cebebc99a3364375a05659f8184db922cb63e2d94e5f0a69b2b50d7116286b6",
-  "size": 5097472,
+  "latestVersion": "1.0.16",
+  "downloadUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.16.exe",
+  "sha256": "e4336edc1b44e03bb1f22cc4a473eb1c3d9630598e9be8aaf7c36a850b6805a6",
+  "size": 5160448,
   "type": "exe",
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
   "required": false
