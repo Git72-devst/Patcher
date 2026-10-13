@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T04:21:52Z",
+  "updatedAt": "2026-10-13T04:59:51Z",
   "minSupportedManagerVersion": "4.2.2.1140",
   "latestSupportedManagerVersion": "5.8.1.130",
-  "latestPatcherVersion": "1.0.14",
+  "latestPatcherVersion": "1.0.15",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
   "archivePasswordRequired": true,
   "versions": {
@@ -464,16 +464,11 @@
     }
   },
   "selfUpdate": {
-    "version": "1.0.14",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.14-sfx.exe",
-    "sha256": "97cfbbec646067a3080c91d99a7a8e8b1798a8e17fdd86ff1dca97f0c2b1c2b9",
-    "size": 23783154,
-    "type": "sfx",
-    "arguments": [
-      "-y",
-      "-nr",
-      "-InstallPath={appDir}"
-    ],
+    "version": "1.0.15",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.15.exe",
+    "sha256": "2cebebc99a3364375a05659f8184db922cb63e2d94e5f0a69b2b50d7116286b6",
+    "size": 5097472,
+    "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
