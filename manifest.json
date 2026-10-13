@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T05:43:56Z",
+  "updatedAt": "2026-10-13T06:10:59Z",
   "minSupportedManagerVersion": "4.2.2.1140",
   "latestSupportedManagerVersion": "5.8.1.130",
-  "latestPatcherVersion": "1.0.16",
+  "latestPatcherVersion": "1.0.17",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
   "archivePasswordRequired": true,
   "versions": {
@@ -464,10 +464,10 @@
     }
   },
   "selfUpdate": {
-    "version": "1.0.16",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.16.exe",
-    "sha256": "e4336edc1b44e03bb1f22cc4a473eb1c3d9630598e9be8aaf7c36a850b6805a6",
-    "size": 5160448,
+    "version": "1.0.17",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.17.exe",
+    "sha256": "1ed00fe05ddba14853df27aa74b86e2d4d18d8575247d66625dd1fb430b210fe",
+    "size": 5166592,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },

@@ -1,0 +1,3 @@
+1ed00fe05ddba14853df27aa74b86e2d4d18d8575247d66625dd1fb430b210fe  patcher/Patcher-1.0.17.exe
+345395a4b5ef1ca5a29924bb96ce41d334f29079ada9b7721c9fb68252eac5d3  patcher/Patcher-1.0.17-sfx.exe
+7dbd6ce9287c94a5190c5a1b6ab9c73cd1ec041bb93d9353af4e4effbc4249af  patcher/Patcher-1.0.17.7z
