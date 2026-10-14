@@ -1,0 +1,3 @@
+778867b22af63ee275dbfc2876b4f6f53508e654c2aeca5236f21eb1fcfbf5f2  patcher/Patcher-1.0.19.exe
+4fa969bc6f69e73300df2921659cb7c7d438ecb3fd4b557c57fc49f7de434ac5  patcher/Patcher-1.0.19-sfx.exe
+b7ce01bd17571d4fd6d19b91dc537aa76ab92964379e8a8b67cca702b511e47e  patcher/Patcher-1.0.19.7z

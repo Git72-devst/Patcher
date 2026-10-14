@@ -1,0 +1,7 @@
+;!@Install@!UTF-8!
+Title="PATCHER 1.0.19"
+GUIMode="2"
+InstallPath="%%S\\PATCHER"
+OverwriteMode="0"
+RunProgram="nowait:Patcher.exe"
+;!@InstallEnd@!
