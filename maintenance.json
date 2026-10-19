@@ -1,5 +1,5 @@
 {
-  "maintenance": "yes",
+  "maintenance": "no",
   "description": "Обновление серверных файлов и компонентов PATCHER.",
   "expectedEnd": "2026-10-23T15:00:00+03:00"
 }
