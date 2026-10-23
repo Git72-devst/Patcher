@@ -1,6 +1,5 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T05:01:42Z",
   "latestVersion": "5.8.1.130",
   "minSupportedManagerVersion": "4.2.2.1140",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
@@ -359,8 +358,6 @@
     {
       "version": "5.8.0.74",
       "archive": "5.8.0.74.zip",
-      "sha256": "e903ec8187e7fc5df9a6a0f537cf5dcd00da667e61850fcd4a01a355bd9df86c",
-      "size": 516471141,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -380,13 +377,13 @@
           "title": "Patch2",
           "reason": "Недоступно для этой версии"
         }
-      }
+      },
+      "sha256": "af4ddc2e6f5674f6de541702d9ac959f955325c37b2d1aff7901268e5c217c3d",
+      "size": 516471124
     },
     {
       "version": "5.8.0.95",
       "archive": "5.8.0.95.zip",
-      "sha256": "159d3b23f51818aa3a805df28f1cfcd46d7d6e2fc0742ba462dc06ba9fd40e3b",
-      "size": 519279883,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -406,13 +403,13 @@
           "title": "Patch2",
           "reason": "Недоступно для этой версии"
         }
-      }
+      },
+      "sha256": "1ca06a9c81676d704fde62a29b125c8209d4bfa2318e878c297cc41ac6c541c1",
+      "size": 519279866
     },
     {
       "version": "5.8.1.121",
       "archive": "5.8.1.121.zip",
-      "sha256": "50adb9fb0ae622fbf6e1910044d114f6294ce2ebf1d48461800445ddf665402b",
-      "size": 520523913,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -432,13 +429,13 @@
           "title": "Patch2",
           "reason": "Недоступно для этой версии"
         }
-      }
+      },
+      "sha256": "0c079f9c8ed8c6368721854997978e3fea4ee17527ff8fbb7b4e0abf64445e21",
+      "size": 520523896
     },
     {
       "version": "5.8.1.130",
       "archive": "5.8.1.130.zip",
-      "sha256": "62241a03404db9a81942ea1d24fadc09e38322679fa1ef429caef1728482d927",
-      "size": 520591942,
       "modules": {
         "Rus": {
           "enabled": true,
@@ -458,16 +455,19 @@
           "title": "Patch2",
           "reason": "Недоступно для этой версии"
         }
-      }
+      },
+      "sha256": "dc2d551c9dc8a869b82ef7bb162b8ecc714f93764033069bd5d169e4eb0ceae6",
+      "size": 520591925
     }
   ],
+  "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
+  "updatedAt": "2026-10-23T06:22:03Z",
   "selfUpdate": {
-    "version": "1.0.19",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.0.19.exe",
-    "sha256": "778867b22af63ee275dbfc2876b4f6f53508e654c2aeca5236f21eb1fcfbf5f2",
-    "size": 5219328,
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.0.exe",
+    "sha256": "03a702b8f1ab7f06c850f077efd0d01fec54624273c5e01e266516a6593326aa",
+    "size": 7439360,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
-  },
-  "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
+  }
 }
