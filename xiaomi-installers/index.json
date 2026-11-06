@@ -11,8 +11,8 @@
   "installers": [
     {
       "version": "6.0.2.19",
-      "file": "小米电脑管家_6.0.2.19_c379be90.exe",
-      "url": "https://github.com/Git72-devst/Patcher/releases/download/archives/小米电脑管家_6.0.2.19_c379be90.exe",
+      "file": "_6.0.2.19_c379be90.exe",
+      "url": "https://github.com/Git72-devst/Patcher/releases/download/archives/_6.0.2.19_c379be90.exe",
       "sha256": "d520fae7b3f1df35bc20ff87e314aa7417bad8cbfd8e5181cab4796f005f4d1a",
       "size": 832749856,
       "enabled": true
