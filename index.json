@@ -506,10 +506,10 @@
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
   "updatedAt": "2026-11-07T00:00:00Z",
   "selfUpdate": {
-    "version": "1.1.1",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.1.exe",
-    "sha256": "2a28ee93dac040425f3ac0242a2772b974e06f63d4adbf1157c597f9e06230a6",
-    "size": 7536640,
+    "version": "1.1.2",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.2.exe",
+    "sha256": "af72625bb5117f80e534227842540a18d824195c61a831af01b3cd8eb9746210",
+    "size": 7599616,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   }

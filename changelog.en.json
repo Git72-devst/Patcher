@@ -3,6 +3,19 @@
   "updatedAt": "2026-11-07T00:00:00Z",
   "versions": [
     {
+      "version": "1.1.2",
+      "date": "07.11.2026",
+      "changes": [
+        "Before installing a translation, PATCHER closes processes from the selected XiaomiPCManager folder and its subfolders instead of relying on a fixed list of executable names.",
+        "Service handling has been corrected, including Xiaomi Continuity Service: related services are stopped through the Windows Service Control Manager and awaited so that translation files are released.",
+        "After installation, an error or cancellation, only processes and services stopped by PATCHER are restored; user processes retain their launch arguments, working directory and original privileges.",
+        "The automatic scan does not affect processes belonging to other XiaomiPCManager installations or programs outside the selected folder; stop and restore errors are recorded in the log.",
+        "Fixed the XiaomiPCManager 6.0.2.19 installer download link: the catalog now uses the actual GitHub Release asset name after server-side name normalization, eliminating the 404 error.",
+        "Fixed the completed installation-patch layout on the home screen: long descriptions and folder paths no longer overlap action buttons or the activity log.",
+        "Checking again after preparing an installation patch no longer reports a preparation failure when XiaomiPCManager is not installed. An absent installation is shown as a normal state with installer-download and patch-preparation actions; the state descriptions have been clarified."
+      ]
+    },
+    {
       "version": "1.1.1",
       "date": "07.11.2026",
       "changes": [
