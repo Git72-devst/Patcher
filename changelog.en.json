@@ -1,0 +1,268 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-07T00:00:00Z",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "date": "07.11.2026",
+      "changes": [
+        "Added support for XiaomiPCManager 6.0.2.19 with separate Russian and English translations.",
+        "The translation card now has a language selector; languages unavailable for the selected version are dimmed and cannot be selected. Downloads, preloads and installation use the selected language.",
+        "Starting with XiaomiPCManager 6.0.2.19, the camera and theme modules are hidden; installing a preloaded translation no longer offers a transition to the camera patch.",
+        "PATCHER interface language settings now offer System default, Russian and English.",
+        "Russian and English release history is loaded from GitHub; English history is stored separately in changelog.en.json and is not embedded in the release build.",
+        "When XiaomiPCManager is not installed, the home screen offers an installer download and installation-patch preparation. The installer and msimg32.dll are saved to the patch folder beside PATCHER without being launched automatically.",
+        "XiaomiPCManager 6.0.2.19 has been added to the installer catalog.",
+        "Maintenance is now controlled only by the expectedEnd date: the status is cleared automatically when the deadline passes, and separate yes/no flags are no longer used.",
+        "The XiaomiPCManager version card shows a red indicator when an unsupported version is detected."
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "23.10.2026",
+      "changes": [
+        "New interface: bottom navigation, a new font and custom SVG icons.",
+        "Checks and updates are now on the home screen: a downloaded PATCHER update is applied with the Restart button, while the user runs the XiaomiPCManager installer manually.",
+        "Module selection, installation progress and the result are shown in the main card; the prompt to restart Windows Explorer no longer opens in a separate window.",
+        "Progress reporting and remaining-time estimates have been reworked; intensive checks and installation run outside the main UI thread.",
+        "Detailed logs are presented as a table with timestamps, events, an entry count, saving and clearing; recent events are shown on the home screen.",
+        "Release history is presented as cards; the About page fits the window, and QR codes are larger and have transparent backgrounds.",
+        "The \"A word from the author\" card expands over the interface; the shortened text indicates that more content is available.",
+        "Theme and version selectors have been updated with rounded styling and smooth appearance animations; transitions and automatically hiding scrollbars have been improved.",
+        "After a successful standard installation, the selected version's temporary cache is deleted: both the downloaded archive and the extracted files.",
+        "Translations for XiaomiPCManager 5.8.0.74, 5.8.0.95, 5.8.1.121 and 5.8.1.130 have been updated"
+      ]
+    },
+    {
+      "version": "1.0.19",
+      "date": "14.10.2026",
+      "changes": [
+        "After installing the translation or camera patch, PATCHER restarts the programs it closed to replace files.",
+        "The executable path, launch arguments and working directory are preserved; components that have already restarted are not duplicated. Programs not closed by PATCHER are not started.",
+        "Programs are also restored after an error, installation cancellation or closing PATCHER; relaunch results and errors are recorded in the logs.",
+        "Programs using the context-menu file are closed individually without terminating untracked child processes, then restarted with their original user permissions.",
+        "Related services are restored through the Windows Service Control Manager; if a safe restart method cannot be determined, the process is not terminated and the reason is recorded in the logs.",
+        "Translations for 5.8.0.74, 5.8.0.95, 5.8.1.121 and 5.8.1.130 have been updated.",
+        "TouchScreen resources have been added to the image sets for 5.8.0.95, 5.8.1.121 and 5.8.1.130; all four ZIP archives have been verified and their SHA256 hashes recalculated."
+      ]
+    },
+    {
+      "version": "1.0.18",
+      "date": "13.10.2026",
+      "changes": [
+        "Added process termination before translation installation, with executable-path and process-exit verification.",
+        "Components in other XiaomiPCManager folders and versions are not affected; EXE relaunch protection remains active during file replacement.",
+        "Translations have been updated for 5.8.0.74, 5.8.0.95, 5.8.1.121 and 5.8.1.130.",
+        "Normal creation of the touchscreen button has been restored in XiaomiPCManager 5.8.0.95, 5.8.1.121 and 5.8.1.130, fixing the cause of the panel failing to finish loading on supported models.",
+        "The contents of all four versions have been checked; the PATCHER 1.0.18 package has been prepared."
+      ]
+    },
+    {
+      "version": "1.0.17",
+      "date": "13.10.2026",
+      "changes": [
+        "Fixed files becoming locked again when a component automatically restarts after being closed.",
+        "Programs being replaced are protected against being relaunched, loaded or written to until installation or rollback finishes.",
+        "Components are closed again immediately before file locks are acquired; limited retries handle races with automatic restarts.",
+        "Protection applies only to files in the selected installation.",
+        "The translation has been updated for 5.8.0.74, 5.8.0.95, 5.8.1.121 and 5.8.1.130."
+      ]
+    },
+    {
+      "version": "1.0.16",
+      "date": "13.10.2026",
+      "changes": [
+        "Fixed translation installation.",
+        "Components of the selected XiaomiPCManager version are closed again before files are applied; processes with the same names in other folders are not affected.",
+        "Installation checks the files to be replaced before making changes and skips byte-for-byte identical files.",
+        "The translation and selected icons are installed with backups and rollback on error.",
+        "If installation fails, the verified archive and unused preload are retained for another attempt."
+      ]
+    },
+    {
+      "version": "1.0.15",
+      "date": "13.10.2026",
+      "changes": [
+        "Fixed self-update compatibility with version 1.0.12.",
+        "The updated program replaces the old version and starts in the original folder, without passing installer switches to PATCHER itself.",
+        "Fixed argument forwarding and handling of paths containing spaces, Cyrillic characters and special characters.",
+        "PATCHER exits for self-update only after the replacement helper has started successfully."
+      ]
+    },
+    {
+      "version": "1.0.14",
+      "date": "13.10.2026",
+      "changes": [
+        "Version increased to 1.0.14.",
+        "The \"A word from the author\" section has been replaced with a new message from the author.",
+        "The 5.8.0.74 translation has been updated.",
+        "Added support for XiaomiPCManager 5.8.0.95, 5.8.1.121 and 5.8.1.130.",
+        "Translations for 5.8.0.74, 5.8.0.95, 5.8.1.121 and 5.8.1.130 have been synchronized.",
+        "Translation quality and coverage have been improved.",
+        "A patch is available for the new versions.",
+        "The version 5.8.1.130 installer has been added to the download catalog.",
+        "Added protection against running multiple instances."
+      ]
+    },
+    {
+      "version": "1.0.13",
+      "date": "12.10.2026",
+      "changes": [
+        "Added preloading of the application update, translation and camera patch for the selected XiaomiPCManager version.",
+        "Preloading has no time limit, displays download size and speed, and supports cancellation.",
+        "The Installation page shows how many installations are available from the preload.",
+        "After a successful installation, the preloaded translation is deleted; on error, it is retained for another attempt. The camera patch can be reused.",
+        "Completed preloads are verified and remain available for offline installation after restarting PATCHER.",
+        "The Check page now has a button for downloading a newer XiaomiPCManager version, without a new-version popup.",
+        "The latest supported version has changed to 5.8.1.130. Installers are published separately."
+      ]
+    },
+    {
+      "version": "1.0.12",
+      "date": "12.07.2026",
+      "changes": [
+        "Version increased to 1.0.12.",
+        "Maintenance status is checked again every 10 seconds, and the interface is automatically unlocked when maintenance ends.",
+        "Before installation, PATCHER identifies programs that are in use. The user can close them and continue without a partial installation.",
+        "Copy errors now include the exact path of the file or folder that could not be replaced."
+      ]
+    },
+    {
+      "version": "1.0.11",
+      "date": "12.07.2026",
+      "changes": [
+        "Version increased to 1.0.11.",
+        "Added a controlled maintenance mode that blocks all sections and displays a description and expected completion time.",
+        "After the translation is installed successfully, PATCHER offers to restart Windows Explorer to apply translated names and context-menu entries."
+      ]
+    },
+    {
+      "version": "1.0.10",
+      "date": "12.07.2026",
+      "changes": [
+        "Version increased to 1.0.10.",
+        "PATCHER starts automatically after an update is installed.",
+        "Version displays in information sections now use the shared application version value.",
+        "Updated translations have been added to 5.8.0.74.",
+        "Added Russian labels for Paste and Connect, file-transfer statuses, incoming-call elements and tablet interaction options.",
+        "The Xiaomi Share context-menu entry 使用小米互传发送 has been translated as Send.",
+        "Fixed the tablet options Duplicate screen, Extend screen, and Keyboard and mouse."
+      ]
+    },
+    {
+      "version": "1.0.9",
+      "date": "06.07.2026",
+      "changes": [
+        "Version increased to 1.0.9.",
+        "Manual update checks now bypass the cache, just like the startup check.",
+        "Fixed the case where the startup check found an update but the Check button reported that no update was needed.",
+        "The Ready status no longer hides an available update."
+      ]
+    },
+    {
+      "version": "1.0.8",
+      "date": "06.07.2026",
+      "changes": [
+        "Version increased to 1.0.8.",
+        "Fixed downloads being interrupted after about 20 seconds.",
+        "The download timeout has been set to 5 minutes.",
+        "Logs now show detailed network-error information: the HTTP status code and error text.",
+        "Fixed changelog loading.",
+        "The changelog now supports the new format.",
+        "Self-update has been restored to the working approach of installing into the folder of the running PATCHER."
+      ]
+    },
+    {
+      "version": "1.0.7",
+      "date": "03.07.2026",
+      "changes": [
+        "Version increased to 1.0.7.",
+        "Added Patches to the Installation section.",
+        "The Patches card in the Installation section is now clickable.",
+        "Added patch controls for 5.8.0.74.",
+        "For other versions, the Patches section displays an In development status.",
+        "Updated self-update metadata and the link to the 1.0.7 self-extracting package.",
+        "Added a Cancel button to the download and installation dialogs.",
+        "Self-update now extracts the new version into the exact folder from which PATCHER was launched.",
+        "The user can interrupt translation installation or PATCHER self-update at any time.",
+        "On cancellation or error, the window stays open until the user clicks OK.",
+        "Long operations trigger a timeout, and the status displays a message about a slow download or interrupted installation.",
+        "Added patch files to 5.8.0.74 for blocking and restoring the camera-check notification.",
+        "Updated the 5.8.0.74 metadata after adding the patch.",
+        "The notification is blocked at the call level, rather than merely translated."
+      ]
+    },
+    {
+      "version": "1.0.6",
+      "date": "03.07.2026",
+      "changes": [
+        "Updated the translation for 5.8.0.74.",
+        "Translated popup messages.",
+        "Translated part of the Chinese interface using screenshots submitted to the group.",
+        "Replaced the support item in About with Chinese characters.",
+        "Updated the description, link and QR code.",
+        "Fixed installation of translated images."
+      ]
+    },
+    {
+      "version": "1.0.5",
+      "date": "02.07.2026",
+      "changes": [
+        "Requests now bypass the cache.",
+        "Fixed the update window finding a new version but displaying an empty changelog.",
+        "Added a fallback changelog display when the exact version range does not match."
+      ]
+    },
+    {
+      "version": "1.0.4",
+      "date": "02.07.2026",
+      "changes": [
+        "Renamed List of changes to Changelog.",
+        "Added an icon for Changelog in the sidebar.",
+        "Removed the Refresh button from the changelog page.",
+        "Fixed old corrupted Russian strings in interface elements."
+      ]
+    },
+    {
+      "version": "1.0.3",
+      "date": "02.07.2026",
+      "changes": [
+        "Added the List of changes section.",
+        "Release history now loads correctly.",
+        "On startup, PATCHER checks for its own updates without checking XiaomiPCManager.",
+        "When a new version is found, a window appears with the update version and changelog.",
+        "Added Cancel and Install buttons to the update window."
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "date": "02.07.2026",
+      "changes": [
+        "Fixed PATCHER offering an update to the same version.",
+        "The version card no longer shows a download button when the versions are equal.",
+        "Updated the 5.8.0.74 translation."
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "02.07.2026",
+      "changes": [
+        "Added a detailed logs section.",
+        "Logs show versions, links, the selected image set and error details.",
+        "PATCHER self-update installs into the folder from which it was launched.",
+        "Installing images now replaces the contents with the selected set.",
+        "Updated image-set labels and fixed clipped two-line text."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "01.07.2026",
+      "changes": [
+        "First stable self-extracting release.",
+        "Added XiaomiPCManager version detection and downloading from GitHub.",
+        "Added a PATCHER version card with support for future self-updates.",
+        "Added Russian translation installation and image-set selection."
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "latestVersion": "5.8.1.130",
+  "latestVersion": "6.0.2.19",
   "minSupportedManagerVersion": "4.2.2.1140",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
   "versions": [
@@ -458,15 +458,58 @@
       },
       "sha256": "dc2d551c9dc8a869b82ef7bb162b8ecc714f93764033069bd5d169e4eb0ceae6",
       "size": 520591925
+    },
+    {
+      "version": "6.0.2.19",
+      "archive": "6.0.2.19.zip",
+      "sha256": "03dcedb4012251f0e620f4e791f258600f22d112725f97d28e971a78f5747d03",
+      "size": 113626482,
+      "translations": {
+        "ru": {
+          "archive": "6.0.2.19.zip",
+          "sha256": "03dcedb4012251f0e620f4e791f258600f22d112725f97d28e971a78f5747d03",
+          "size": 113626482,
+          "module": "Rus"
+        },
+        "en": {
+          "archive": "6.0.2.19_en.zip",
+          "sha256": "afa223da5c24d7470002476b29e404867c28fb93dc2c00bea4a1560a90713d7c",
+          "size": 106242185,
+          "module": "Rus"
+        }
+      },
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "hidden": true,
+          "title": "Смена темы",
+          "reason": "Недоступно начиная с XiaomiPCManager 6.0.2.19"
+        },
+        "Patch1": {
+          "enabled": false,
+          "hidden": true,
+          "title": "Патч камеры",
+          "reason": "Недоступно начиная с XiaomiPCManager 6.0.2.19"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
     }
   ],
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
-  "updatedAt": "2026-10-23T06:22:03Z",
+  "updatedAt": "2026-11-07T00:00:00Z",
   "selfUpdate": {
-    "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.0.exe",
-    "sha256": "03a702b8f1ab7f06c850f077efd0d01fec54624273c5e01e266516a6593326aa",
-    "size": 7439360,
+    "version": "1.1.1",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.1.exe",
+    "sha256": "2a28ee93dac040425f3ac0242a2772b974e06f63d4adbf1157c597f9e06230a6",
+    "size": 7536640,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   }

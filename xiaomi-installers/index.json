@@ -1,7 +1,22 @@
 {
   "schema": 1,
-  "latestVersion": "5.8.1.130",
+  "latestVersion": "6.0.2.19",
+  "installationPatch": {
+    "file": "msimg32.dll",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/xiaomi-installers/msimg32.dll",
+    "sha256": "69567223a283fc2c254ae97f43ea36de66a345e1a3a5790f241d579dd3406ddb",
+    "size": 38336,
+    "enabled": true
+  },
   "installers": [
+    {
+      "version": "6.0.2.19",
+      "file": "小米电脑管家_6.0.2.19_c379be90.exe",
+      "url": "https://github.com/Git72-devst/Patcher/releases/download/archives/小米电脑管家_6.0.2.19_c379be90.exe",
+      "sha256": "d520fae7b3f1df35bc20ff87e314aa7417bad8cbfd8e5181cab4796f005f4d1a",
+      "size": 832749856,
+      "enabled": true
+    },
     {
       "version": "5.8.1.130",
       "file": "TS4L_XiaomiPCManager_feature_p52_5.8.1.130_b5a04836.exe",
