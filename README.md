@@ -1,7 +1,18 @@
 # Patcher
 Патчи и переводы для XiaomiPCManager.
 
-## PATCHER 1.1.2
+## PATCHER 1.1.3
+
+Обслуживание проверяется каждые 10 секунд независимо от текущего режима.
+Обычная кнопка проверки также сначала перечитывает `maintenance.json`.
+Фоновые запросы не мигают в интерфейсе и не дублируют одинаковые записи журнала.
+Уточнена обработка SCM-служб MiPlayCastService и MiRemoteDeskService.
+
+Обновлены RU/EN архивы XiaomiPCManager 6.0.2.19. Перед push новых метаданных
+замените оба одноимённых ZIP в Assets Release `archives`; контрольные суммы
+находятся в `SHA256SUMS-translations-2026-11-09.txt`.
+
+## Исправления 1.1.2
 
 Исправлена установка при занятых файлах XiaomiPCManager, включая Continuity
 Service: процессы выбираются по пути внутри папки выбранной версии, службы
@@ -20,7 +31,7 @@ Service: процессы выбираются по пути внутри пап
 Новый установщик и два ZIP перевода загружаются в Assets существующего
 [Release archives](https://github.com/Git72-devst/Patcher/releases/edit/archives),
 не в обычный Git-коммит. Подробности и контрольные суммы — в
-[инструкции](xiaomi-installers/README.md) и [описании релиза](RELEASE-1.1.2.txt).
+[инструкции](xiaomi-installers/README.md) и [описании релиза](RELEASE-1.1.3.txt).
 Сначала загрузите Assets, затем отправляйте коммит метаданных через GitHub Desktop.
 
 Обслуживание включается только при будущей абсолютной дате `expectedEnd`

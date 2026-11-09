@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-07T00:00:00Z",
+  "updatedAt": "2026-11-09T00:00:00Z",
   "versions": [
+    {
+      "version": "1.1.3",
+      "date": "09.11.2026",
+      "changes": [
+        "Maintenance status is checked every 10 seconds regardless of its current state. An already running PATCHER detects maintenance activation without restarting; the interface unlocks automatically after expectedEnd, and polling continues.",
+        "The refresh button also reloads the maintenance configuration. Requests do not overlap; unchanged background checks should not cause interface flicker or fill the log with repeated messages.",
+        "Clarified handling of MiPlayCastService.exe and MiRemoteDeskService.exe during translation installation: services in the selected XiaomiPCManager folder are stopped and restored through the Windows Service Control Manager, with state confirmation.",
+        "The unavailable-working-directory warning for user processes no longer applies to services whose launch configuration is managed by the Service Control Manager. Actual stop and restore failures are still recorded in the log.",
+        "Updated the Russian and English translation archives for XiaomiPCManager 6.0.2.19. Both packages contain an updated dist/static/js/main.js; each retains the same 1027-file inventory, with sizes and SHA256 values refreshed in the catalogs."
+      ]
+    },
     {
       "version": "1.1.2",
       "date": "07.11.2026",

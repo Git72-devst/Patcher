@@ -463,19 +463,19 @@
     "6.0.2.19": {
       "supported": true,
       "archive": "6.0.2.19.zip",
-      "sha256": "03dcedb4012251f0e620f4e791f258600f22d112725f97d28e971a78f5747d03",
-      "size": 113626482,
+      "sha256": "b1b2ed8b98baa18ad467f155b3d2499d2f1f38b3296caf97961b34844cd335b9",
+      "size": 113626454,
       "translations": {
         "ru": {
           "archive": "6.0.2.19.zip",
-          "sha256": "03dcedb4012251f0e620f4e791f258600f22d112725f97d28e971a78f5747d03",
-          "size": 113626482,
+          "sha256": "b1b2ed8b98baa18ad467f155b3d2499d2f1f38b3296caf97961b34844cd335b9",
+          "size": 113626454,
           "module": "Rus"
         },
         "en": {
           "archive": "6.0.2.19_en.zip",
-          "sha256": "afa223da5c24d7470002476b29e404867c28fb93dc2c00bea4a1560a90713d7c",
-          "size": 106242185,
+          "sha256": "0d9ff5431a3a526366e72b6a7b7a8718b3547350d2c87d16e66559a775f98f25",
+          "size": 106242148,
           "module": "Rus"
         }
       },
@@ -507,12 +507,12 @@
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
   "updatedAt": "2026-11-07T00:00:00Z",
   "selfUpdate": {
-    "version": "1.1.2",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.2.exe",
-    "sha256": "af72625bb5117f80e534227842540a18d824195c61a831af01b3cd8eb9746210",
-    "size": 7599616,
+    "version": "1.1.3",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.3.exe",
+    "sha256": "e8639829066f8742901a2c7d27a24b382a10f0ed93d31a9e5d94b2712c9e1083",
+    "size": 7600128,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
-  "latestPatcherVersion": "1.1.2"
+  "latestPatcherVersion": "1.1.3"
 }

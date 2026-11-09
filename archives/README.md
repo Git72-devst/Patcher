@@ -18,4 +18,6 @@ https://github.com/Git72-devst/Patcher/releases/download/archives/5.8.0.74.zip
 Папка подготовки: `D:/Work/Mi/Patcher/github-server/archives`.
 Не переименовывайте файлы. Внутренний каталог `Rus/` у обоих архивов —
 техническое имя модуля, содержимое каждого соответствует его языку.
-Контрольные суммы: `SHA256SUMS-translations-2026-11-07.txt`.
+Контрольные суммы обновления 1.1.3: `SHA256SUMS-translations-2026-11-09.txt`.
+Перед push метаданных замените оба существующих одноимённых Assets в Release
+`archives`. Старые опубликованные ZIP не соответствуют новым SHA256.
