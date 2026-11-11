@@ -4,6 +4,14 @@
 
 [Открыть редактирование Release и раздел Assets](https://github.com/Git72-devst/Patcher/releases/edit/archives).
 
+Последний установщик в каталоге — XiaomiPCManager 6.0.2.30:
+[`_6.0.2.30_acb3c61c.exe`](https://github.com/Git72-devst/Patcher/releases/download/archives/_6.0.2.30_acb3c61c.exe).
+Размер — `832570408` байт. SHA256:
+
+```text
+6a9c1b3cbffe3dd93e65285764d503956fbd5c62807637c5765b6bba4a16b9cc
+```
+
 Фактическое имя уже опубликованного asset XiaomiPCManager 6.0.2.19:
 
 `_6.0.2.19_c379be90.exe`

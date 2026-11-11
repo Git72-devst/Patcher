@@ -8,7 +8,8 @@
       "changes": [
         "Fixed translation installation preparation when the XiaomiPCManager service has stopped but its MAFSvr.exe process has not yet exited.",
         "Updated the Russian and English translation archives for XiaomiPCManager 6.0.2.19.",
-        "Added support for XiaomiPCManager 6.0.2.30 with separate Russian and English translations."
+        "Added support for XiaomiPCManager 6.0.2.30 with separate Russian and English translations.",
+        "Added the XiaomiPCManager 6.0.2.30 installer (_6.0.2.30_acb3c61c.exe) to the download catalog."
       ]
     },
     {

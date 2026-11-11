@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "latestVersion": "6.0.2.19",
+  "latestVersion": "6.0.2.30",
   "installationPatch": {
     "file": "msimg32.dll",
     "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/xiaomi-installers/msimg32.dll",
@@ -9,6 +9,14 @@
     "enabled": true
   },
   "installers": [
+    {
+      "version": "6.0.2.30",
+      "file": "_6.0.2.30_acb3c61c.exe",
+      "url": "https://github.com/Git72-devst/Patcher/releases/download/archives/_6.0.2.30_acb3c61c.exe",
+      "sha256": "6a9c1b3cbffe3dd93e65285764d503956fbd5c62807637c5765b6bba4a16b9cc",
+      "size": 832570408,
+      "enabled": true
+    },
     {
       "version": "6.0.2.19",
       "file": "_6.0.2.19_c379be90.exe",
