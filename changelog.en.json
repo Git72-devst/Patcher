@@ -1,7 +1,16 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-09T00:00:00Z",
+  "updatedAt": "2026-11-11T00:00:00Z",
   "versions": [
+    {
+      "version": "1.1.4",
+      "date": "11.11.2026",
+      "changes": [
+        "Fixed translation installation preparation when the XiaomiPCManager service has stopped but its MAFSvr.exe process has not yet exited.",
+        "Updated the Russian and English translation archives for XiaomiPCManager 6.0.2.19.",
+        "Added support for XiaomiPCManager 6.0.2.30 with separate Russian and English translations."
+      ]
+    },
     {
       "version": "1.1.3",
       "date": "09.11.2026",

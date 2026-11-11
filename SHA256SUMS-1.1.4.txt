@@ -1,0 +1,5 @@
+2f7daa5faf76e6a9b106759dbe8eeff248a8bab3da8861203ab11fecdd6bbd25  patcher/Patcher-1.1.4.exe
+10a89a7b50b03e5e618adf0b9e1030757b7f7e25b5cf7fa5e4508467933aceb5  patcher/Patcher-1.1.4-sfx.exe
+8806377e425010ac9871c82e0989da70ba49394a61f189aba8b54c092499caf7  patcher/Patcher-1.1.4.7z
+f90b4f5e2f906051ee9b605226ae243b341a4e86a2e3a863b42d0dd9e63992a8  patcher/Patcher-1.1.4-sfx-config.txt
+e5f7c160c3e2adc384be8b654a99c7047fde341cf23df491f74a739ff4a4a073  patcher/Patcher-1.1.4-portable.zip

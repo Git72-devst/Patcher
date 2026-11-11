@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "minSupportedManagerVersion": "4.2.2.1140",
-  "latestSupportedManagerVersion": "6.0.2.19",
+  "latestSupportedManagerVersion": "6.0.2.30",
   "archivesBaseUrl": "https://github.com/Git72-devst/Patcher/releases/download/archives",
   "archivePasswordRequired": true,
   "versions": {
@@ -463,19 +463,62 @@
     "6.0.2.19": {
       "supported": true,
       "archive": "6.0.2.19.zip",
-      "sha256": "b1b2ed8b98baa18ad467f155b3d2499d2f1f38b3296caf97961b34844cd335b9",
-      "size": 113626454,
+      "sha256": "bb3143c2b80084c0b5db6bea4e45d2164829587934d0a1b682ea2f3927e99730",
+      "size": 113640989,
       "translations": {
         "ru": {
           "archive": "6.0.2.19.zip",
-          "sha256": "b1b2ed8b98baa18ad467f155b3d2499d2f1f38b3296caf97961b34844cd335b9",
-          "size": 113626454,
+          "sha256": "bb3143c2b80084c0b5db6bea4e45d2164829587934d0a1b682ea2f3927e99730",
+          "size": 113640989,
           "module": "Rus"
         },
         "en": {
           "archive": "6.0.2.19_en.zip",
-          "sha256": "0d9ff5431a3a526366e72b6a7b7a8718b3547350d2c87d16e66559a775f98f25",
-          "size": 106242148,
+          "sha256": "0f608c3473faae5d74491569b5c5630521efbace30e55b6f80448a9c1d6697f8",
+          "size": 106256868,
+          "module": "Rus"
+        }
+      },
+      "modules": {
+        "Rus": {
+          "enabled": true,
+          "title": "Перевод"
+        },
+        "Themes": {
+          "enabled": false,
+          "hidden": true,
+          "title": "Смена темы",
+          "reason": "Недоступно начиная с XiaomiPCManager 6.0.2.19"
+        },
+        "Patch1": {
+          "enabled": false,
+          "hidden": true,
+          "title": "Патч камеры",
+          "reason": "Недоступно начиная с XiaomiPCManager 6.0.2.19"
+        },
+        "Patch2": {
+          "enabled": false,
+          "title": "Patch2",
+          "reason": "Недоступно для этой версии"
+        }
+      }
+    },
+    "6.0.2.30": {
+      "supported": true,
+      "archive": "6.0.2.30.zip",
+      "sha256": "1936f4c48433fe451e901780260b7952a77646847e4833647a8c598d8bcf7260",
+      "size": 107619291,
+      "translations": {
+        "ru": {
+          "archive": "6.0.2.30.zip",
+          "sha256": "1936f4c48433fe451e901780260b7952a77646847e4833647a8c598d8bcf7260",
+          "size": 107619291,
+          "module": "Rus"
+        },
+        "en": {
+          "archive": "6.0.2.30_en.zip",
+          "sha256": "4d970d089e860d553c676cca50e6959dd3423692d2d120fab626dd4bd4cbb6c1",
+          "size": 100241702,
           "module": "Rus"
         }
       },
@@ -505,14 +548,14 @@
     }
   },
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
-  "updatedAt": "2026-11-07T00:00:00Z",
+  "updatedAt": "2026-11-11T00:00:00Z",
   "selfUpdate": {
-    "version": "1.1.3",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.3.exe",
-    "sha256": "e8639829066f8742901a2c7d27a24b382a10f0ed93d31a9e5d94b2712c9e1083",
-    "size": 7600128,
+    "version": "1.1.4",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.4.exe",
+    "sha256": "2f7daa5faf76e6a9b106759dbe8eeff248a8bab3da8861203ab11fecdd6bbd25",
+    "size": 7604224,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   },
-  "latestPatcherVersion": "1.1.3"
+  "latestPatcherVersion": "1.1.4"
 }
