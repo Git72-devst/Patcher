@@ -16,4 +16,8 @@ RELEASE-1.1.4.txt text eol=lf
 SHA256SUMS-1.1.4.txt text eol=lf
 SHA256SUMS-translations-2026-11-11.txt text eol=lf
 patcher/Patcher-1.1.4-sfx-config.txt binary
+RELEASE-1.1.5.txt text eol=lf
+SHA256SUMS-1.1.5.txt text eol=lf
+SHA256SUMS-translations-2026-11-14.txt text eol=lf
+patcher/Patcher-1.1.5-sfx-config.txt binary
 archives/5.8.0.74.zip filter=lfs diff=lfs merge=lfs -text

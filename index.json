@@ -505,19 +505,19 @@
     {
       "version": "6.0.2.30",
       "archive": "6.0.2.30.zip",
-      "sha256": "1936f4c48433fe451e901780260b7952a77646847e4833647a8c598d8bcf7260",
-      "size": 107619291,
+      "sha256": "b5b714100fb24ebc37472a08c1bb09a197facbad8e2e4fa2b24f84a770f8afb7",
+      "size": 108097509,
       "translations": {
         "ru": {
           "archive": "6.0.2.30.zip",
-          "sha256": "1936f4c48433fe451e901780260b7952a77646847e4833647a8c598d8bcf7260",
-          "size": 107619291,
+          "sha256": "b5b714100fb24ebc37472a08c1bb09a197facbad8e2e4fa2b24f84a770f8afb7",
+          "size": 108097509,
           "module": "Rus"
         },
         "en": {
           "archive": "6.0.2.30_en.zip",
-          "sha256": "4d970d089e860d553c676cca50e6959dd3423692d2d120fab626dd4bd4cbb6c1",
-          "size": 100241702,
+          "sha256": "ae6c4a076c1872883253fa1cd295247b7a882d2c5fbdaefc1d609af452933f2b",
+          "size": 100720416,
           "module": "Rus"
         }
       },
@@ -547,12 +547,12 @@
     }
   ],
   "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json",
-  "updatedAt": "2026-11-11T00:00:00Z",
+  "updatedAt": "2026-11-14T00:00:00Z",
   "selfUpdate": {
-    "version": "1.1.4",
-    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.4.exe",
-    "sha256": "2f7daa5faf76e6a9b106759dbe8eeff248a8bab3da8861203ab11fecdd6bbd25",
-    "size": 7604224,
+    "version": "1.1.5",
+    "url": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/patcher/Patcher-1.1.5.exe",
+    "sha256": "6e6563d6214b2f51c9c70a3e5571826db7297556c96fb39bc47967a7f79eaf2e",
+    "size": 7622656,
     "type": "exe",
     "changelogUrl": "https://raw.githubusercontent.com/Git72-devst/Patcher/main/changelog.json"
   }

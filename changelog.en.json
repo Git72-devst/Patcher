@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-11T00:00:00Z",
+  "updatedAt": "2026-11-14T00:00:00Z",
   "versions": [
+    {
+      "version": "1.1.5",
+      "date": "14.11.2026",
+      "changes": [
+        "XiaomiPCManager components are stopped just before file replacement. If MAFSvr.exe does not exit, PATCHER terminates only the verified process of the standalone service after Windows confirms the service has stopped.",
+        "Fixed detection of MiDropShellExt.dll in the MiSmartShare folder on newer XiaomiPCManager versions. File Explorer is closed only after user confirmation.",
+        "If the service control channel closes during shutdown (Win32 109), PATCHER rechecks the service and proceeds only after confirming that both the service and its original process have stopped.",
+        "If a component such as XiaomiClipboard.exe exits on its own, PATCHER confirms the exit and keeps its restart information. If the process is still running, file replacement is cancelled and the log records the failing step and Windows error code when available.",
+        "Updated the Russian and English translation archives for XiaomiPCManager 6.0.2.30."
+      ]
+    },
     {
       "version": "1.1.4",
       "date": "11.11.2026",

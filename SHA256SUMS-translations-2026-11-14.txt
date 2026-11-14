@@ -1,0 +1,2 @@
+b5b714100fb24ebc37472a08c1bb09a197facbad8e2e4fa2b24f84a770f8afb7  archives/6.0.2.30.zip
+ae6c4a076c1872883253fa1cd295247b7a882d2c5fbdaefc1d609af452933f2b  archives/6.0.2.30_en.zip
